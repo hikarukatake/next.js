@@ -18,7 +18,7 @@ const Main = () => {
                     My portfolio creation so far
                 </strong>
             </div>
-            <h1 id="Work">Work</h1>
+            <h1 id="Work"></h1>
             <div id="flex">
                 <div id="block">
                     <Image id="port" src={portfolio} alt="portforio"></Image>
