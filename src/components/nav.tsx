@@ -11,7 +11,6 @@ const Nav: FC = () => {
             <Image src={localImage} alt="猫は最高に可愛い" />
             <ul>
                 <li ><Link href={"/#top"} id="color">HOME</Link></li>
-                <li><Link href={"/about"} id="color">ABOUT</Link></li>
             </ul>
         </header>
     );

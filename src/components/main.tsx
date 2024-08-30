@@ -31,11 +31,11 @@ const Main = () => {
             <div id="flex">
                 <div id="block">
                     <Image id="port" src={portfolio3} alt="portforio3"></Image>
-                    <p>一年生最終課題</p>
+                    <p>PHP課題</p>
                 </div>
                 <div id="block">
                     <Image id="port" src={portfolio4} alt="portforio4"></Image>
-                    <p>1,2年共同開発</p>
+                    <p>1年中間課題</p>
                 </div>
             </div>
         
