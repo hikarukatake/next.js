@@ -9,7 +9,7 @@ const Nav: FC = () => {
         <header >
             <Image src={localImage} alt="猫は最高に可愛い" />
             <ul>
-                <li ><a href={"/#Work"} id="color">Work</a></li>
+                <li ><a href={"/#work"} id="color">work</a></li>
             </ul>
         </header>
     );
