@@ -6,7 +6,7 @@ import { FC } from "react";
  */
 const Nav: FC = () => {
     return (
-        <header >
+        <header>
             <Image src={localImage} alt="猫は最高に可愛い" />
             <ul>
                 <li ><a href={"/#Work"} id="color">Work</a></li>
